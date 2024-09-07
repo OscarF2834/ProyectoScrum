@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sistema.trailers.MiniSistemaTrailersApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 79.051 s - in com.sistema.trailers.MiniSistemaTrailersApplicationTests
